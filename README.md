@@ -1,1 +1,1 @@
-Is a porgram which provides a glossary of beekeeping terms
+Is a program which provides a glossary of beekeeping terms
